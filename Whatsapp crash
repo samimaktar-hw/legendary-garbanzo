@@ -1,0 +1,6 @@
+# legendary-garbanzo
+Assalamualaikum everyone welcome to Hexca web 
+# turmux command 
+apt update && apt upgrade-y
+pkg install python git -y
+pip install colorama
